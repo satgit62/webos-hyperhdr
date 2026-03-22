@@ -7,7 +7,7 @@ Root access required
 
 **HyperHDR** RGBW with Temporal Dithering powered by ICE for **webOS**
 
-To use the **PicCap-NV12** option, an additional **LUT loader** interface for **SDR**, **HDR**, and **DV** is required. This interface was customized by [@satgit62](https://github.com/satgit62) (satdx62) and can be loaded via the [LUT loader](https://github.com/satgit62/Ultimate-HyperHDR-Ambilight-fine-tuning-experience-for-LG-webOS-with-new-LUT-calibration-) in the interface settings.
+To use the **PicCap-NV12** option, an additional **LUT loader** interface for **SDR**, **HDR**, and **DV** is required. This interface was customized by [@satgit62](https://github.com/satgit62) (satdx62) and can be loaded via the [LUT loader](https://github.com/satgit62/Ultimate-HyperHDR-Ambilight-fine-tuning-experience-for-LG-webOS-with-new-LUT-calibration-/blob/main/README.md#lut-loader) in the interface settings.
 
 
 
