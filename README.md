@@ -7,5 +7,5 @@ Root access required
 
 **HyperHDR** RGBW with Temporal Dithering powered by ICE for **webOS**
 
-Additional LUT loader interface for **SDR**, **HDR**, and **Dolby DV**, by [@satgit62](https://github.com/satgit62) (satdx62) which is essential for use in combination with the **PicCap NV12** option.
+Additional LUT loader interface for **SDR**, **HDR**, and **Dolby DV**, Mod. by [@satgit62](https://github.com/satgit62) (satdx62) which is essential for use in combination with the **PicCap NV12** option.
 
