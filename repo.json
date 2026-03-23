@@ -21,9 +21,6 @@
         "sourceUrl": "https://github.com/satgit62/webos-hyperhdr",
         "rootRequired": true,
         "ipkUrl": "https://github.com/satgit62/satgit62.github.io/releases/download/v0.2.0-alpha/org.webosbrew.hyperhdr.loader_0.3.7_all.ipk",
-        "ipkHash": {
-          "sha256": "76b1969f81456c423504578e97ea871e707353686184f5774ffd705b9090d002"
-        }
       }
     }
   ]
