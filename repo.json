@@ -22,7 +22,7 @@
         "rootRequired": true,
         "ipkUrl": "https://github.com/satgit62/webos-hyperhdr/blob/main/org.webosbrew.hyperhdr.loader_0.3.7_all.ipk",
         "ipkHash": {
-          "sha256": "sha256:a72cd655523c0da7922c85fb8b4e21edcb627673e630676ad9605b6b022881dd"
+          "sha256": "sha256:76b1969f81456c423504578e97ea871e707353686184f5774ffd705b9090d002"
         }
       }
     }
