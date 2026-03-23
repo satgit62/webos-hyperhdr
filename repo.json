@@ -8,17 +8,17 @@
   "packages": [
     {
       "id": "org.webosbrew.hyperhdr.loader",
-      "title": "HyperHDR",
+      "title": "HyperHDR for WebOS",
       "description": "HyperHDR for WebOS by satgit62",
       "iconUri": "https://github.com/satgit62/webos-hyperhdr/blob/main/assets/icon.png",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.loader",
         "version": "0.3.7",
         "type": "web",
-        "title": "HyperHDR",
+        "title": "HyperHDR for WebOS",
         "appDescription": "HyperHDR for WebOS by satgit62",
         "iconUri": "https://github.com/satgit62/webos-hyperhdr/blob/main/assets/icon.png",
-        "sourceUrl": "https://github.com/satgit62/webos-hyperhdr",
+        "sourceUrl": "https://github.com/satgit62/webos-hyperhdr/",
         "rootRequired": true,
         "ipkUrl": "https://github.com/satgit62/webos-hyperhdr/raw/refs/heads/main/org.webosbrew.hyperhdr.loader_0.3.7_all.ipk",
         "ipkHash": {
