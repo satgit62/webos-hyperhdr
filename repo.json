@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 2,
+    "count": 1,
     "maxPage": 1,
-    "itemsTotal": 2
+    "itemsTotal": 1
   },
   "packages": [
     {
@@ -23,7 +23,6 @@
         "ipkUrl": "https://github.com/satgit62/webos-hyperhdr/raw/refs/heads/main/org.webosbrew.hyperhdr.loader_0.3.7_all.ipk",
         "ipkHash": {
           "sha256": "sha256:a72cd655523c0da7922c85fb8b4e21edcb627673e630676ad9605b6b022881dd"
-        }
-      }
     }
-  ]
+  } 
+ } 
