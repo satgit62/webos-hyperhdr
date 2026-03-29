@@ -13,7 +13,7 @@
       "iconUri": "https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/assets/icon.png",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.loader",
-        "version": "0.3.7",
+        "version": "0.3.8",
         "type": "web",
         "title": "HyperHDR by satgit62",
         "appDescription": "HyperHDR by satgit62",
