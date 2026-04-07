@@ -11,6 +11,10 @@ To use the **PicCap-NV12** option, an additional **LUT loader** interface for **
 
 Screenshots:
 
+<img width="1445" height="817" alt="1" src="https://github.com/user-attachments/assets/fb9e3120-9895-409d-8756-4cd38d884014" />
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/f59077f2-b320-454b-8956-479553e9dd9e" />
+
 <img width="494" height="282" alt="Ambilight" src="https://github.com/user-attachments/assets/6b718f55-5e73-46c4-b7cc-9ccf0c4ce7c8" />
 
 
