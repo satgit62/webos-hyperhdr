@@ -9,5 +9,10 @@ Root access required
 
 To use the **PicCap-NV12** option, an additional **LUT loader** interface for **SDR**, **HDR**, and **DV** is required. This interface was customized by [@satgit62](https://github.com/satgit62) (satdx62) and can be loaded via the [LUT loader](https://github.com/satgit62/Ultimate-HyperHDR-Ambilight-fine-tuning-experience-for-LG-webOS-with-new-LUT-calibration-/blob/main/README.md#lut-loader) in the interface settings.
 
+Screenshots:
+
+<img width="494" height="282" alt="Ambilight" src="https://github.com/user-attachments/assets/6b718f55-5e73-46c4-b7cc-9ccf0c4ce7c8" />
+
+
 
 
