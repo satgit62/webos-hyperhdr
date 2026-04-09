@@ -15,7 +15,7 @@
       "manifest": {
         "id": "org.webosbrew.hyperhdr.loader",
         "version": "0.3.8",
-        "type": "native",
+        "type": "web",
         "title": "HyperHDR by satgit62",
         "description": "Control your HyperHDR Ambilight setup directly from your LG webOS TV.",
         "shortDescription": "Control your HyperHDR Ambilight setup directly from your LG webOS TV.",
