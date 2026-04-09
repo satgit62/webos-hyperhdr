@@ -28,7 +28,7 @@
 
         "shortDescription": "Control your HyperHDR Ambilight setup directly from your LG webOS TV.",
 
-        "longDescription": "Bring your Ambilight experience to the next level.\n\nHyperHDR for LG webOS lets you control your lighting setup directly from your TV – no additional devices required. Enjoy seamless integration and adjust your lighting in real time, right from your couch.\n\nKEY FEATURES\n• Direct connection to your HyperHDR server\n• Real-time control of Ambilight effects\n• Adjust brightness, colors and effects\n• Fast, lightweight and TV-optimized UI\n\nREQUIREMENTS\n• A running HyperHDR instance in your network\n• LG webOS TV with Homebrew Channel\n• Root access may be required depending on your setup\n\nLearn more:\nhttps://github.com/satgit62/webos-hyperhdr"
+        "fullDescriptionUrl": "https://satgit62.github.io/webos-hyperhdr/index.html"
       }
     }
   ]
