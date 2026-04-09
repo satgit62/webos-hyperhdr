@@ -79,6 +79,22 @@
     a:hover {
       text-decoration: underline;
     }
+
+    /* Screenshots Layout */
+    .screenshots {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+      margin-top: 10px;
+    }
+
+    .screenshot {
+      max-width: 280px;
+      width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+    }
   </style>
 </head>
 <body>
@@ -119,6 +135,15 @@
       <li>LG webOS TV with Homebrew Channel</li>
       <li>Root access may be required</li>
     </ul>
+  </div>
+
+  <div class="card">
+    <h2>📸 Screenshots</h2>
+    <div class="screenshots">
+      <img src="https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/screenshots/01-lutloader.png" alt="LUT Loader" class="screenshot">
+      <img src="https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/screenshots/02-lutloader.png" alt="LUT Loader Menu" class="screenshot">
+      <img src="https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/screenshots/03-ambilight.png" alt="Ambilight Example" class="screenshot">
+    </div>
   </div>
 
   <div class="card">
