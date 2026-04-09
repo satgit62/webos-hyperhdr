@@ -14,25 +14,22 @@
       "manifest": {
         "id": "org.webosbrew.hyperhdr.loader",
         "version": "0.3.8",
-        "type": "web",
+        "type": "native",
         "title": "HyperHDR by satgit62",
         "description": "Control your HyperHDR Ambilight setup directly from your LG webOS TV.",
         "iconUri": "https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/assets/icon.png",
         "sourceUrl": "https://github.com/satgit62/webos-hyperhdr",
         "rootRequired": true,
         "ipkUrl": "https://satgit62.github.io/webos-hyperhdr/org.webosbrew.hyperhdr.loader_0.3.8_all.ipk",
+
         "ipkHash": {
           "sha256": "e62a1e4c38de845a2fd27f8146ff7427b96dbc0815b5a48ce85ede511696ecba"
         },
+
         "shortDescription": "Control your HyperHDR Ambilight setup directly from your LG webOS TV.",
-        "fullDescriptionUrl": "https://satgit62.github.io/webos-hyperhdr/"
+
+        "longDescription": "Bring your Ambilight experience to the next level.\n\nHyperHDR for LG webOS lets you control your lighting setup directly from your TV – no additional devices required. Enjoy seamless integration and adjust your lighting in real time, right from your couch.\n\nKEY FEATURES\n• Direct connection to your HyperHDR server\n• Real-time control of Ambilight effects\n• Adjust brightness, colors and effects\n• Fast, lightweight and TV-optimized UI\n\nREQUIREMENTS\n• A running HyperHDR instance in your network\n• LG webOS TV with Homebrew Channel\n• Root access may be required depending on your setup\n\nLearn more:\nhttps://github.com/satgit62/webos-hyperhdr"
       }
     }
   ]
 }
-
-      
-     
-    
-  
-
