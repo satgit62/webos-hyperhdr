@@ -26,11 +26,6 @@
         },
         "shortDescription": "Control your HyperHDR Ambilight setup directly from your LG webOS TV.",
         "fullDescriptionUrl": "https://satgit62.github.io/webos-hyperhdr/"
-        },
-        "screenshots": [
-          "https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/screenshots/01-lutloader.png",
-          "https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/screenshots/02-lutloader.png",
-          "https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/screenshots/03-ambilight.png"
         ]
       }
     }
