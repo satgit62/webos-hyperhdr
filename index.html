@@ -80,20 +80,20 @@
       text-decoration: underline;
     }
 
-    /* Screenshots Layout */
+    /* 🔥 FIX: TV-kompatible Screenshot-Galerie */
     .screenshots {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      justify-content: center;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 12px;
       margin-top: 10px;
     }
 
     .screenshot {
-      max-width: 280px;
       width: 100%;
-      height: auto;      /* 🔹 Wichtig: proportional skalieren */
+      aspect-ratio: 16 / 9;   /* verhindert Verzerrung */
+      object-fit: contain;    /* Bild bleibt vollständig sichtbar */
       border-radius: 12px;
+      background: #000;
       box-shadow: 0 4px 15px rgba(0,0,0,0.4);
     }
   </style>
