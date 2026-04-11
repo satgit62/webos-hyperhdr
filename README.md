@@ -18,5 +18,7 @@ Screenshots:
 <img width="494" height="282" alt="Ambilight" src="https://github.com/user-attachments/assets/6b718f55-5e73-46c4-b7cc-9ccf0c4ce7c8" />
 
 
+👍 Credits & Source: [awawa-dev](https://github.com/awawa-dev/HyperHDR)
+
 
 
