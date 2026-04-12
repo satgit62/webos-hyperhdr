@@ -1,7 +1,7 @@
 <img width="214" height="209" alt="icon" src="https://github.com/user-attachments/assets/fad99c5a-60cd-4c39-91c4-d70b213c14c4" />
 
  # HyperHDR for WebOS by satgit62
-Root access required
+Bring your Ambilight experience to the next level. Control your HyperHDR setup directly from your LG webOS TV – no additional devices required. 
 
 [HyperHDR](https://github.com/awawa-dev/HyperHDR) is an open-source ambient lighting system for TVs and audio systems that is based on real-time analysis of video and audio streams and includes a user interface for starting, stopping, and automatically launching the daemon.
 
