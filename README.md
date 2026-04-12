@@ -31,7 +31,7 @@ Bring your Ambilight experience to the next level. Control your HyperHDR setup d
 
 💡 Tip
 
-    To install or update this version directly via the Homebrew Channel, you must add a new repository source in the HBC settings.
+> To install or update this version directly via the Homebrew Channel, you must add a new repository source in the HBC settings.
 
 The URL is:
 ```
