@@ -17,6 +17,15 @@ Screenshots:
 
 <img width="494" height="282" alt="Ambilight" src="https://github.com/user-attachments/assets/6b718f55-5e73-46c4-b7cc-9ccf0c4ce7c8" />
 
+💡 Tip
+
+    To install or update this version directly via the Homebrew Channel, you must add a new repository source in the HBC settings.
+
+The URL is:
+
+https://satgit62.github.io/webos-hyperhdr/repo.json
+
+
 
 👍 Credits & Source: [awawa-dev](https://github.com/awawa-dev/HyperHDR)
 
