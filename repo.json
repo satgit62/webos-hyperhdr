@@ -19,7 +19,7 @@
         "iconUri": "https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/assets/icon.png",
         "sourceUrl": "https://github.com/satgit62/webos-hyperhdr",
         "rootRequired": true,
-        "ipkUrl": "https://satgit62.github.io/webos-hyperhdr/org.webosbrew.hyperhdr.loader_0.3.8_all.ipk",
+        "ipkUrl": "https://satgit62.github.io/webos-hyperhdr/org.webosbrew.hyperhdr.loader_0.3.9_all.ipk",
         "ipkHash": {
           "sha256": "c8f73e7e66dc3ae8092926256218e5840f1f5087026448b9c3307ee60dc340ee"
         }
