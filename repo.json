@@ -12,16 +12,16 @@
       "iconUri": "https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/assets/icon.png",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.loader",
-        "version": "0.4.0",
+        "version": "0.4.1",
         "type": "native",
         "title": "HyperHDR by satgit62",
         "appDescription": "Control your HyperHDR Ambilight setup directly from your LG webOS TV.",
         "iconUri": "https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/assets/icon.png",
         "sourceUrl": "https://github.com/satgit62/webos-hyperhdr",
         "rootRequired": true,
-        "ipkUrl": "https://satgit62.github.io/webos-hyperhdr/org.webosbrew.hyperhdr.loader_0.4.0_all.ipk",
+        "ipkUrl": "https://satgit62.github.io/webos-hyperhdr/org.webosbrew.hyperhdr.loader_0.4.1_all.ipk",
         "ipkHash": {
-          "sha256": "ebde83b3c276845b95f7568414cab30362d846a07835a8c34eb9905c2fe8413b"
+          "sha256": "99fcb698df6c2fa6e000bec7a8f833fc4793710d65622ffed94bea8adfead93b"
         }
       },
       "shortDescription": "Control your HyperHDR Ambilight setup directly from your LG webOS TV.",
